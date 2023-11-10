@@ -1,0 +1,27 @@
+{
+  "name": "syook",
+  "version": "1.0.14",
+  "description": "Emitter Process ",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oishik112/syook.git"
+  },
+  "author": "Oishik Dutta and Team",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oishik112/syook/issues"
+  },
+  "homepage": "https://github.com/oishik112/syook#readme",
+  "dependencies": {
+    "axios": "^1.6.1",
+    "crypto-js": "^4.2.0",
+    "express": "^4.18.2",
+    "mongoose": "^8.0.0",
+    "socket.io": "^4.7.2",
+    "socket.io-client": "^4.7.2"
+  }
+}
