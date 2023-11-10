@@ -46,7 +46,7 @@ This project is licensed under the MIT License.
 
 
 Note:
-- Replace `[brief description of what the project aims to achieve]` with a short, clear description of your project.
+- Replace ` with a short, clear description of your project.
 - Provide instructions for setting up the project in the "Getting Started" and "Installation" sections.
 - Update the prerequisites based on the actual requirements of your project.
 - If there are specific contribution guidelines, create a `CONTRIBUTING.md` file and link to it.
