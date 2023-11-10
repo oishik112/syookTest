@@ -1,7 +1,7 @@
 # Syook Project
 
 ## Description
-This project, named "Syook," involves [brief description of what the project aims to achieve].
+This project, named "Syook," involves small backend application which can generate and emit an encrypted data stream over a socket, listens to incoming data stream on a socket, decrypts and decodes it, save to a time series db and then emit the saved data to a small frontend app.
 
 ## Table of Contents
 - [Getting Started](#getting-started)
